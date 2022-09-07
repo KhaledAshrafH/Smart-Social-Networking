@@ -1,5 +1,0 @@
-﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : Access to the path 'c:\users\eng khaled\source\repos\projectds\x64\debug\projectds.exe' is denied.
-  ProjectDS.cpp
-  userLL.cpp
-  Generating Code...
-LINK : fatal error LNK1104: cannot open file 'C:\Users\Eng Khaled\source\repos\ProjectDS\x64\Debug\ProjectDS.exe'
